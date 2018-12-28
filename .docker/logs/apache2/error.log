@@ -1,0 +1,56 @@
+AH00112: Warning: DocumentRoot [/var/www/html/laracast/public/] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.4. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 09 14:10:47.859772 2018] [mpm_prefork:notice] [pid 9] AH00163: Apache/2.4.25 (Debian) PHP/7.2.12 configured -- resuming normal operations
+[Sun Dec 09 14:10:47.860089 2018] [core:notice] [pid 9] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/laracast/public/] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.4. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 09 14:11:19.063311 2018] [mpm_prefork:notice] [pid 9] AH00163: Apache/2.4.25 (Debian) PHP/7.2.12 configured -- resuming normal operations
+[Sun Dec 09 14:11:19.063391 2018] [core:notice] [pid 9] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/laracast/public/] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.4. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 09 14:22:03.400426 2018] [mpm_prefork:notice] [pid 9] AH00163: Apache/2.4.25 (Debian) PHP/7.2.12 configured -- resuming normal operations
+[Sun Dec 09 14:22:03.400521 2018] [core:notice] [pid 9] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/laracast/public/] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.4. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 09 14:22:45.624725 2018] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.25 (Debian) PHP/7.2.12 configured -- resuming normal operations
+[Sun Dec 09 14:22:45.624840 2018] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/laracast/public/] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.21.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 09 14:24:31.349991 2018] [mpm_prefork:notice] [pid 10] AH00163: Apache/2.4.25 (Debian) PHP/7.2.12 configured -- resuming normal operations
+[Sun Dec 09 14:24:31.350102 2018] [core:notice] [pid 10] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sun Dec 09 14:26:59.427247 2018] [mpm_prefork:notice] [pid 10] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.21.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 09 14:27:01.029649 2018] [mpm_prefork:notice] [pid 9] AH00163: Apache/2.4.25 (Debian) PHP/7.2.12 configured -- resuming normal operations
+[Sun Dec 09 14:27:01.029902 2018] [core:notice] [pid 9] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Dec 27 17:40:23.254242 2018] [mpm_prefork:notice] [pid 9] AH00163: Apache/2.4.25 (Debian) PHP/7.2.12 configured -- resuming normal operations
+[Thu Dec 27 17:40:23.254543 2018] [core:notice] [pid 9] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Thu Dec 27 17:40:52.600518 2018] [autoindex:error] [pid 10] [client 172.19.0.1:45202] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php) found, and server-generated directory index forbidden by Options directive
+[Thu Dec 27 17:40:54.055510 2018] [autoindex:error] [pid 10] [client 172.19.0.1:45202] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php) found, and server-generated directory index forbidden by Options directive, referer: http://0.0.0.0:8877/
+[Thu Dec 27 17:42:18.351945 2018] [autoindex:error] [pid 12] [client 172.19.0.1:45258] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php) found, and server-generated directory index forbidden by Options directive, referer: http://0.0.0.0:8877/
+[Thu Dec 27 17:43:31.949648 2018] [autoindex:error] [pid 14] [client 172.19.0.1:45288] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php) found, and server-generated directory index forbidden by Options directive, referer: http://0.0.0.0:8877/
+[Thu Dec 27 17:43:32.813164 2018] [autoindex:error] [pid 14] [client 172.19.0.1:45288] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php) found, and server-generated directory index forbidden by Options directive, referer: http://0.0.0.0:8877/
+[Thu Dec 27 17:43:33.411926 2018] [autoindex:error] [pid 14] [client 172.19.0.1:45288] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php) found, and server-generated directory index forbidden by Options directive, referer: http://0.0.0.0:8877/
+[Thu Dec 27 17:43:35.628920 2018] [autoindex:error] [pid 14] [client 172.19.0.1:45288] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php) found, and server-generated directory index forbidden by Options directive
+[Thu Dec 27 17:43:40.039240 2018] [php7:error] [pid 14] [client 172.19.0.1:45288] script '/var/www/html/index.php' not found or unable to stat
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Dec 27 17:48:20.782249 2018] [mpm_prefork:notice] [pid 9] AH00163: Apache/2.4.25 (Debian) PHP/7.2.12 configured -- resuming normal operations
+[Thu Dec 27 17:48:20.782363 2018] [core:notice] [pid 9] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Thu Dec 27 17:48:53.698477 2018] [autoindex:error] [pid 10] [client 172.19.0.1:45464] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php) found, and server-generated directory index forbidden by Options directive
+[Thu Dec 27 17:49:37.269163 2018] [autoindex:error] [pid 12] [client 172.19.0.1:45482] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php) found, and server-generated directory index forbidden by Options directive
+[Thu Dec 27 17:49:38.001094 2018] [autoindex:error] [pid 12] [client 172.19.0.1:45482] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php) found, and server-generated directory index forbidden by Options directive
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Dec 27 17:53:36.069925 2018] [mpm_prefork:notice] [pid 10] AH00163: Apache/2.4.25 (Debian) PHP/7.2.12 configured -- resuming normal operations
+[Thu Dec 27 17:53:36.070033 2018] [core:notice] [pid 10] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Thu Dec 27 17:54:09.058719 2018] [autoindex:error] [pid 11] [client 172.19.0.1:45640] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php) found, and server-generated directory index forbidden by Options directive
+[Thu Dec 27 17:54:09.827846 2018] [autoindex:error] [pid 11] [client 172.19.0.1:45640] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php) found, and server-generated directory index forbidden by Options directive
+[Thu Dec 27 17:57:26.171060 2018] [autoindex:error] [pid 13] [client 172.19.0.1:45668] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php) found, and server-generated directory index forbidden by Options directive
+[Thu Dec 27 17:57:26.988765 2018] [autoindex:error] [pid 13] [client 172.19.0.1:45668] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php) found, and server-generated directory index forbidden by Options directive
+[Thu Dec 27 18:00:04.445628 2018] [autoindex:error] [pid 15] [client 172.19.0.1:45708] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php) found, and server-generated directory index forbidden by Options directive
+[Thu Dec 27 18:00:05.126421 2018] [autoindex:error] [pid 15] [client 172.19.0.1:45708] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php) found, and server-generated directory index forbidden by Options directive
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.21.0.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Dec 27 18:05:57.685134 2018] [mpm_prefork:notice] [pid 9] AH00163: Apache/2.4.25 (Debian) PHP/7.2.12 configured -- resuming normal operations
+[Thu Dec 27 18:05:57.685465 2018] [core:notice] [pid 9] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.22.0.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Dec 27 18:10:22.717197 2018] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.25 (Debian) PHP/7.2.12 configured -- resuming normal operations
+[Thu Dec 27 18:10:22.722218 2018] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
